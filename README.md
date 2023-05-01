@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Avinash Kumar
-- 👀 I’m interested in python coading and want to be a backend devloper 
-- 🌱 I’m currently learning python with Django framework and SQL database
-- 💞️ I’m looking to collaborate on projects which help me to learn
+- 👀 
 - 📫 You can reach me at royavinash43@gmail.com
 
 <!---
